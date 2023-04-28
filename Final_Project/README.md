@@ -45,7 +45,7 @@ python plot_result.py --result_dir 'checkpoint'
 
 ## Citation
 
-If you find our work useful in your research, please consider citing:
+From MHFormer:
 
     @inproceedings{li2022mhformer,
       title={MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation},
